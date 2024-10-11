@@ -13,4 +13,4 @@ function move() {
 net.addEventListener("mouseover", move);
 da.addEventListener("click", ()=>{
     alert("ХОРОШИЙ МАЛЬЧИК!!!")
-})
+});
